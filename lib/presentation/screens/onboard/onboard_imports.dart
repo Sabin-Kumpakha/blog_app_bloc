@@ -1,0 +1,9 @@
+export 'package:auto_route/auto_route.dart';
+export 'package:flutter/material.dart';
+export '../../../core/constants/my_colors.dart';
+export 'widgets/onboard_first.dart';
+export 'widgets/onboard_second.dart';
+export 'widgets/onboard_third.dart';
+export 'package:smooth_page_indicator/smooth_page_indicator.dart';
+export 'package:flutter_screenutil/flutter_screenutil.dart';
+export '../../../../core/constants/my_assets.dart';
